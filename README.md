@@ -4,11 +4,11 @@
 April/2022: Medical assistance plans total 49.4 million beneficiaries, Even so, more than **60% of Brazilians, approximately, do not have a health plan.**
 
 
-**GOAL** 
+### **GOAL** 
 
 You have been hired as a data scientist for the health plan operator wsh. Your first job as a data scientist is to develop a methodology for predicting the value of the health plan for your beneficiaries.
 
-**ABOUT THIS PROJECT**
+### **ABOUT THIS PROJECT**
 
 The project was divided into 4 parts:
 
@@ -24,4 +24,4 @@ The project was divided into 4 parts:
 4 Construction and evaluation of forecasting models
 - Creation of machine learning models: Linear Regression, Ridge Regression, Lasso Regression, Random Forest and Test results
 - 
-- **CONCLUSION**
+- ### **CONCLUSION**
