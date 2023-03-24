@@ -1,4 +1,4 @@
-# Health-Plan-Costs
+# Health Plan Costs
 
 
 April/2022: Medical assistance plans total 49.4 million beneficiaries, Even so, more than **60% of Brazilians, approximately, do not have a health plan.**
