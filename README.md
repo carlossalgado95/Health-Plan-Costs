@@ -1,7 +1,7 @@
 # Health-Plan-Costs
 
 
-Abril/2022: Planos de assistência médica totalizam marca de 49,4 milhões beneficiários, Mesmo assim, mais de **60% dos brasileiros**, aproximadamente, **não possuem plano** de saúde.
+April/2022: Medical assistance plans total 49.4 million beneficiaries, Even so, more than **60% of Brazilians, approximately, do not have a health plan.**
 
 
 **GOAL** 
