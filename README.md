@@ -21,7 +21,7 @@ The project was divided into 4 parts:
   
 3- Preprocessing
  - Age rounding on the training base, feature selection, split independent variables.
- - 
+ 
 4 Construction and evaluation of forecasting models
 - Creation of machine learning models: Linear Regression, Ridge Regression, Lasso Regression, Random Forest and Test results
 
