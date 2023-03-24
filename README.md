@@ -26,3 +26,8 @@ The project was divided into 4 parts:
 - Creation of machine learning models: Linear Regression, Ridge Regression, Lasso Regression, Random Forest and Test results
 
 - ### **CONCLUSION**
+After testing,it was VERIFIED that the regression models obtained results very close to each other, varying within 0.1 the value of r2 score, with the random forest model being the best model tested, with an r2 score of 0.90
+
+- ### **NEXT STEPS**
+
+For the next steps, it is important to tune the hyper parameters, for better precision and results.
